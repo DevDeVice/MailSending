@@ -1,0 +1,15 @@
+C:\Users\sebastiand\source\repos\ExcelToJSON\MailSending\MailSending\bin\Debug\net6.0\MailSending.exe
+C:\Users\sebastiand\source\repos\ExcelToJSON\MailSending\MailSending\bin\Debug\net6.0\MailSending.deps.json
+C:\Users\sebastiand\source\repos\ExcelToJSON\MailSending\MailSending\bin\Debug\net6.0\MailSending.runtimeconfig.json
+C:\Users\sebastiand\source\repos\ExcelToJSON\MailSending\MailSending\bin\Debug\net6.0\MailSending.dll
+C:\Users\sebastiand\source\repos\ExcelToJSON\MailSending\MailSending\bin\Debug\net6.0\MailSending.pdb
+C:\Users\sebastiand\source\repos\ExcelToJSON\MailSending\MailSending\obj\Debug\net6.0\MailSending.csproj.AssemblyReference.cache
+C:\Users\sebastiand\source\repos\ExcelToJSON\MailSending\MailSending\obj\Debug\net6.0\MailSending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastiand\source\repos\ExcelToJSON\MailSending\MailSending\obj\Debug\net6.0\MailSending.AssemblyInfoInputs.cache
+C:\Users\sebastiand\source\repos\ExcelToJSON\MailSending\MailSending\obj\Debug\net6.0\MailSending.AssemblyInfo.cs
+C:\Users\sebastiand\source\repos\ExcelToJSON\MailSending\MailSending\obj\Debug\net6.0\MailSending.csproj.CoreCompileInputs.cache
+C:\Users\sebastiand\source\repos\ExcelToJSON\MailSending\MailSending\obj\Debug\net6.0\MailSending.dll
+C:\Users\sebastiand\source\repos\ExcelToJSON\MailSending\MailSending\obj\Debug\net6.0\refint\MailSending.dll
+C:\Users\sebastiand\source\repos\ExcelToJSON\MailSending\MailSending\obj\Debug\net6.0\MailSending.pdb
+C:\Users\sebastiand\source\repos\ExcelToJSON\MailSending\MailSending\obj\Debug\net6.0\MailSending.genruntimeconfig.cache
+C:\Users\sebastiand\source\repos\ExcelToJSON\MailSending\MailSending\obj\Debug\net6.0\ref\MailSending.dll
