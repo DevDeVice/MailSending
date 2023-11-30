@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sebastiand\\source\\repos\\ExcelToJSON\\MailSending\\MailSending\\MailSending.csproj": {}
+    "C:\\Users\\sebastiand\\source\\repos\\MailSending\\MailSending\\MailSending\\MailSending.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sebastiand\\source\\repos\\ExcelToJSON\\MailSending\\MailSending\\MailSending.csproj": {
+    "C:\\Users\\sebastiand\\source\\repos\\MailSending\\MailSending\\MailSending\\MailSending.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sebastiand\\source\\repos\\ExcelToJSON\\MailSending\\MailSending\\MailSending.csproj",
+        "projectUniqueName": "C:\\Users\\sebastiand\\source\\repos\\MailSending\\MailSending\\MailSending\\MailSending.csproj",
         "projectName": "MailSending",
-        "projectPath": "C:\\Users\\sebastiand\\source\\repos\\ExcelToJSON\\MailSending\\MailSending\\MailSending.csproj",
+        "projectPath": "C:\\Users\\sebastiand\\source\\repos\\MailSending\\MailSending\\MailSending\\MailSending.csproj",
         "packagesPath": "C:\\Users\\sebastiand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sebastiand\\source\\repos\\ExcelToJSON\\MailSending\\MailSending\\obj\\",
+        "outputPath": "C:\\Users\\sebastiand\\source\\repos\\MailSending\\MailSending\\MailSending\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.102.1, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

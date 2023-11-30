@@ -1,0 +1,2 @@
+Błąd podczas wysyłania e-maila do	cvxxc	The specified string is not in the form required for an e-mail address.
+Błąd podczas wysyłania e-maila do	cvxxc	The specified string is not in the form required for an e-mail address.
